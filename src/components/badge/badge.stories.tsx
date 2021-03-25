@@ -14,7 +14,7 @@ export const knobsBadge = () => (
   <Badge
     status={select<BadgeProps['status']>(
       'status',
-      Object.keys(badgeColor) as BadgeProps['status'][],
+      Object.keys(badgeColor) as ("neutral" | "positive" | "negative" | "warning" | "error")[],
       'neutral'
     )}
   >
