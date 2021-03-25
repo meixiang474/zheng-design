@@ -1,10 +1,11 @@
 {
-  "name": "@meixiang474/zheng-design",
-  "version": "0.4.0",
+  "name": "zheng-design",
+  "version": "0.5.0",
   "private": false,
   "dependencies": {
     "axios": "^0.19.2",
-    "polished": "^3.6.5"
+    "polished": "^3.6.5",
+    "styled-components": "^5.1.1"
   },
   "peerDependencies": {
     "react": "^17.0.1",
@@ -18,9 +19,6 @@
   "module": "dist/zheng-design.modern.js",
   "types": "dist/index.d.ts",
   "sideEffects": false,
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@meixiang474"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build-cjs": "microbundle build --tsconfig tsconfig.build.json --jsx React.createElement  --compress=false --format cjs",
