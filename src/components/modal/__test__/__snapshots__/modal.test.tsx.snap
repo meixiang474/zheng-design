@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Modal component should work correct 1`] = `
+<div
+  class="sc-jSgupP AaBKN test"
+>
+  <div
+    class="sc-gKsewC dJXXAC"
+  >
+    <div>
+      <div
+        class="sc-kEjbxe kpnyyT"
+      >
+        标题
+      </div>
+      <div
+        class="sc-fubCfw dTHmNT"
+      >
+        <button
+          class="sc-dlfnbm eeVbyI close-button"
+          data-testid="button"
+          style="background: white; border-radius: 5px; padding: 5px;"
+        >
+          <span
+            class="sc-bdfBwQ dTOzaU"
+          >
+            <svg
+              class="sc-hKgILt dddHDx"
+              color="black"
+              data-testid="icon-svg"
+              height="20px"
+              viewBox="0 0 1024 1024"
+              width="20px"
+            >
+              <path
+                class="sc-eCssSg kRaeEU"
+                color="black"
+                d="M586.7 512L936 861.4a52.8 52.8 0 0 1-74.6 74.7L512 586.7 162.6 936A52.8 52.8 0 0 1 88 861.4L437.3 512 88 162.6A52.8 52.8 0 1 1 162.6 88L512 437.3 861.4 88a52.8 52.8 0 1 1 74.7 74.7L586.7 512z"
+                data-testid="icon-path"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-jrAGrp ikndXn"
+    />
+    <div
+      class="sc-pFZIQ dffSLd"
+    >
+      <button
+        class="sc-dlfnbm cICjDN"
+        data-testid="button"
+      >
+        <span
+          class="sc-bdfBwQ dTOzaU"
+        >
+          确认
+        </span>
+      </button>
+      <button
+        class="sc-dlfnbm cICjDN"
+        data-testid="button"
+        style="margin-left: 10px;"
+      >
+        <span
+          class="sc-bdfBwQ dTOzaU"
+        >
+          取消
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    class="sc-iBPRYJ tlbwm"
+  />
+</div>
+`;

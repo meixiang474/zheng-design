@@ -1,0 +1,592 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Message component animate duration 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div
+      style="line-height: 1.5; text-align: center; box-sizing: border-box; margin: 0px; padding: 0px; list-style: none; position: fixed; z-index: 100000; width: 100%; top: 16px; left: 0px;"
+    >
+      <div>
+        <div
+          class="sc-eCssSg bIwewo"
+        >
+          <span
+            class="sc-dlfnbm bKCcvM message-text"
+          >
+            <span
+              class="sc-hKgILt hZHQqQ"
+            >
+              <svg
+                class="sc-bdfBwQ grfFHw"
+                color="black"
+                data-testid="icon-svg"
+                height="20px"
+                viewBox="0 0 1024 1024"
+                width="20px"
+              >
+                <path
+                  class="sc-gsTCUz cQSuoa"
+                  color="black"
+                  d="M135.6 442.5a41 41 0 0130 12l94.9 94.6c16 16 16 42 0 58s-42.1 16-58.2 0l-30.1-30a341.9 341.9 0 0095 178.6c65.3 65 152 101 244.3 101 92.3 0 179-36 244.3-101a345 345 0 0066.8-93.6 41.1 41.1 0 0174.3 35v.2l-.1.2-5.2 10.3a427.8 427.8 0 01-380 230.9A427.5 427.5 0 0190.1 585.8l-20 20c-16 16-42 16-58.2 0a41 41 0 010-58l93.6-93.3a41 41 0 0130-12zm376-357.2c208.9 0 382.8 149.5 420.1 347.1l22-22c16.1-16 42.2-16 58.2 0s16 42 0 58l-93.5 93.4a41 41 0 01-30 12 41 41 0 01-30-12L763.5 467a41 41 0 010-58c16-16 42.1-16 58.2 0l26.8 26.8a342 342 0 00-92.7-167.6c-65.3-65-152-101-244.3-101-92.3 0-179 36-244.2 101a345.2 345.2 0 00-66.9 93.6 41.1 41.1 0 01-74.3-35v-.2l.2-.2c.7-1.7.2-.8 5.1-10.3A427.8 427.8 0 01511.5 85.3z"
+                  data-testid="icon-path"
+                />
+              </svg>
+            </span>
+            <span
+              class="test3"
+            >
+              111
+            </span>
+          </span>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-eCssSg bIwewo"
+        >
+          <span
+            class="sc-dlfnbm bKCcvM message-text"
+          >
+            <span
+              class="sc-hKgILt iuEFOp"
+            >
+              <svg
+                class="sc-bdfBwQ grfFHw"
+                color="#66BF3C"
+                data-testid="icon-svg"
+                height="20px"
+                viewBox="0 0 1024 1024"
+                width="20px"
+              >
+                <path
+                  class="sc-gsTCUz FEPwG"
+                  color="#66BF3C"
+                  d="M948.598 199.75c-15.622-15.618-40.95-15.618-56.57 0l-535.644 535.644-224.060-224.062c-15.624-15.624-40.954-15.62-56.57 0-15.624 15.62-15.624 40.948 0 56.568l251.574 251.574c0.252 0.266 0.472 0.55 0.734 0.812 7.82 7.82 18.072 11.724 28.322 11.714 10.25 0.010 20.502-3.894 28.322-11.714 0.248-0.248 0.456-0.518 0.698-0.77l563.196-563.202c15.618-15.618 15.618-40.94-0.002-56.564z"
+                  data-testid="icon-path"
+                />
+              </svg>
+            </span>
+            <span
+              class="test3"
+            >
+              111
+            </span>
+          </span>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-eCssSg bIwewo"
+        >
+          <span
+            class="sc-dlfnbm bKCcvM message-text"
+          >
+            <span
+              class="sc-hKgILt iuEFOp"
+            >
+              <svg
+                class="sc-bdfBwQ grfFHw"
+                color="#E69D00"
+                data-testid="icon-svg"
+                height="20px"
+                viewBox="0 0 1024 1024"
+                width="20px"
+              >
+                <path
+                  class="sc-gsTCUz iJlguc"
+                  color="#E69D00"
+                  d="M874.04 149.96c199.95 199.95 199.95 524.14 0 724.08-199.95 199.95-524.13 199.95-724.08 0-199.95-199.95-199.95-524.13 0-724.08 199.95-199.95 524.13-199.95 724.08 0zM512 91.43c-112.34 0-217.95 43.75-297.39 123.18-79.43 79.44-123.18 185.05-123.18 297.4 0 112.33 43.75 217.94 123.18 297.38 79.44 79.43 185.05 123.18 297.4 123.18 112.33 0 217.94-43.75 297.38-123.18C888.82 729.95 932.57 624.34 932.57 512c0-112.34-43.75-217.95-123.18-297.39C729.95 135.18 624.34 91.43 512 91.43zm1.14 318.96a45.73 45.73 0 00-45.11 38.3l-.6 7.42v274.28a45.71 45.71 0 0090.83 7.42l.6-7.42V456.11a45.72 45.72 0 00-45.72-45.72zm0-162.25a45.72 45.72 0 100 91.44 45.72 45.72 0 000-91.44z"
+                  data-testid="icon-path"
+                />
+              </svg>
+            </span>
+            <span
+              class="test3"
+            >
+              111
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div>
+      <button
+        class="sc-iBPRYJ cpDeOk"
+        data-testid="button"
+        id="btn"
+      >
+        <span
+          class="sc-jSgupP kluZzT"
+        >
+          but
+        </span>
+      </button>
+    </div>
+  </body>,
+  "container": <div>
+    <button
+      class="sc-iBPRYJ cpDeOk"
+      data-testid="button"
+      id="btn"
+    >
+      <span
+        class="sc-jSgupP kluZzT"
+      >
+        but
+      </span>
+    </button>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`test Message component callback test 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div
+      style="line-height: 1.5; text-align: center; box-sizing: border-box; margin: 0px; padding: 0px; list-style: none; position: fixed; z-index: 100000; width: 100%; top: 16px; left: 0px;"
+    >
+      <div>
+        <div
+          class="sc-eCssSg bIwewo"
+        >
+          <span
+            class="sc-dlfnbm jZSCEp message-text"
+          >
+            <span
+              class="test2"
+            >
+              22
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div>
+      <button
+        class="sc-iBPRYJ cpDeOk"
+        data-testid="button"
+        id="btn"
+      >
+        <span
+          class="sc-jSgupP kluZzT"
+        >
+          but
+        </span>
+      </button>
+    </div>
+  </body>,
+  "container": <div>
+    <button
+      class="sc-iBPRYJ cpDeOk"
+      data-testid="button"
+      id="btn"
+    >
+      <span
+        class="sc-jSgupP kluZzT"
+      >
+        but
+      </span>
+    </button>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`test Message component callback test 2`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div
+      style="line-height: 1.5; text-align: center; box-sizing: border-box; margin: 0px; padding: 0px; list-style: none; position: fixed; z-index: 100000; width: 100%; top: 16px; left: 0px;"
+    />
+    <div>
+      <button
+        class="sc-iBPRYJ cpDeOk"
+        data-testid="button"
+        id="btn"
+      >
+        <span
+          class="sc-jSgupP kluZzT"
+        >
+          but
+        </span>
+      </button>
+    </div>
+  </body>,
+  "container": <div>
+    <button
+      class="sc-iBPRYJ cpDeOk"
+      data-testid="button"
+      id="btn"
+    >
+      <span
+        class="sc-jSgupP kluZzT"
+      >
+        but
+      </span>
+    </button>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`test Message component can change color 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div
+      style="line-height: 1.5; text-align: center; box-sizing: border-box; margin: 0px; padding: 0px; list-style: none; position: fixed; z-index: 100000; width: 100%; top: 16px; left: 0px;"
+    >
+      <div>
+        <div
+          class="sc-eCssSg bIwewo"
+        >
+          <span
+            class="sc-dlfnbm jZSCEp message-text"
+          >
+            <span
+              class="test2"
+            >
+              22
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div>
+      <button
+        class="sc-iBPRYJ cpDeOk"
+        data-testid="button"
+        id="btn"
+      >
+        <span
+          class="sc-jSgupP kluZzT"
+        >
+          but2
+        </span>
+      </button>
+    </div>
+  </body>,
+  "container": <div>
+    <button
+      class="sc-iBPRYJ cpDeOk"
+      data-testid="button"
+      id="btn"
+    >
+      <span
+        class="sc-jSgupP kluZzT"
+      >
+        but2
+      </span>
+    </button>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`test Message component render basic func 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <button
+        class="sc-iBPRYJ cpDeOk"
+        data-testid="button"
+        id="btn"
+      >
+        <span
+          class="sc-jSgupP kluZzT"
+        >
+          but
+        </span>
+      </button>
+    </div>
+    <div
+      style="line-height: 1.5; text-align: center; box-sizing: border-box; margin: 0px; padding: 0px; list-style: none; position: fixed; z-index: 100000; width: 100%; top: 16px; left: 0px;"
+    >
+      <div>
+        <div
+          class="sc-eCssSg bIwewo"
+        >
+          <span
+            class="sc-dlfnbm bKCcvM message-text"
+          >
+            <span
+              class="test"
+            >
+              11
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <button
+      class="sc-iBPRYJ cpDeOk"
+      data-testid="button"
+      id="btn"
+    >
+      <span
+        class="sc-jSgupP kluZzT"
+      >
+        but
+      </span>
+    </button>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
